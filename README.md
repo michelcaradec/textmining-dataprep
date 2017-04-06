@@ -1,6 +1,6 @@
 # textmining-prepare
 
-Data preparation for textmining Python package.
+Data preparation for [textmining](https://github.com/michelcaradec/textmining) Python package.
 
 ## First names
 
@@ -14,4 +14,4 @@ File used: [Fichier par départements de naissance](https://www.insee.fr/fr/stat
 
 Data preparation is done using **pyspark** on an Apache Spark cluster.
 
-See `firstnames.ipynb` Jupyter notebook.
+See [firstnames.ipynb](https://github.com/michelcaradec/textmining-dataprep/blob/master/firstnames.ipynb) Jupyter notebook.
